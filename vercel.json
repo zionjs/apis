@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/fakecomment", "dest": "/api/fakecomment.js" }
+  ]
+}
